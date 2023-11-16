@@ -4,7 +4,7 @@
  "When":"Spring to mid-Summer",
  "Watering":"1-2in. per week",
  "Harvest": "late Summer to Fall",  
- "Image": ""
+ "Image": "https://www.treehugger.com/thmb/vhv0x4xSvBG88bO3jhIAk0WhrmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grow-cabbage-5179367-01-5cb9262b033048f7a9129734dc67cad1.jpg"
 },
 
 "Lettuce":{
@@ -12,7 +12,7 @@
  "When":"Spring or Fall",
  "Watering":"2in. per week",
  "Harvest": "before weather gets too extreme",  
- "Image": ""
+ "Image": "https://www.marthastewart.com/thmb/5p_VwZ2nvir2fxMwmCKslOVM8s8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/parris-island-romaine-lettuce-getty-0922-2000-f8174cf0ebe7444ea3d9ed451cadb16e.jpg"
 },
 
 "Spinach":{
@@ -20,5 +20,37 @@
  "When":"early Spring or Fall",
  "Watering":"1-1.5in. per week",
  "Harvest": "Fall to early Winter",  
- "Image": ""
+ "Image": "https://www.midwayfarmsoregon.com/wp-content/uploads/2020/05/SPINACH.jpg"
+},
+
+"Bok Choy":{
+ "Climate":"partial shade, 60-70F°",
+ "When":"late Spring to Summer",
+ "Watering":"1in. per week",
+ "Harvest": "late Summer",  
+ "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBCbmMJ3Sy-hQnURfM8WyJC3R_AsHfhD-C8VNZdlmPvpYi2-rM6hvPETZ6Oa8_xU2lr0U&usqp=CAU"
+},
+
+"Amaranth":{
+ "Climate":"direct sunlight, 70-85F°",
+ "When":"mid-Spring to Summer",
+ "Watering":"1in. per week",
+ "Harvest": "Fall",  
+ "Image": "https://cdn11.bigcommerce.com/s-q83qdckkjh/images/stencil/1280x1280/products/402/3805/Red-Garnet-AmaranthBC__79329.1692231246.jpg?c=2?imbypass=on"
+},
+
+"Brussel Sprouts":{
+ "Climate":"direct sunlight, <60F°",
+ "When":"late Spring to Summer",
+ "Watering":"1-2in. per week",
+ "Harvest": "Fall",  
+ "Image": "https://territorialseed.com/cdn/shop/products/BS116.jpg?v=1597273352"
+},
+
+"Kale":{
+ "Climate":"direct sunlight to partial shade, 60-70F°",
+ "When":"early Spring or Fall",
+ "Watering":"1-2in. per week",
+ "Harvest": "Fall to early Winter",  
+ "Image": "https://content.ces.ncsu.edu/media/images/bigstock-Kale-And-Cabbage-Plants-66770539.jpg"
 },
